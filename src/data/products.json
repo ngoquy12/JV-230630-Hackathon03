@@ -1,0 +1,52 @@
+{
+  "Products": [
+    {
+      "product_id": 1,
+      "product_name": "Dầu gội thái dương",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf7zzy33obx3b1",
+      "price": 200000
+    },
+    {
+      "product_id": 2,
+      "product_name": "Quạt Cầm Tay",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ll3eboefmzeeb0",
+      "price": 11900
+    },
+    {
+      "product_id": 3,
+      "product_name": "Sữa rửa mặt",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ll3dl9isz7482c",
+      "price": 15000
+    },
+    {
+      "product_id": 4,
+      "product_name": "Áo phông oversize",
+      "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lft6smttxgjbcd",
+      "price": 72000
+    },
+    {
+      "product_id": 5,
+      "product_name": "Giày Nike",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.fK8nmVoXfdPg2WM9UDi2qgHaHa&pid=Api&P=0&h=180",
+      "price": 7200000
+    },
+    {
+      "product_id": 6,
+      "product_name": "Giày Nike thể thao",
+      "image": "https://1.bp.blogspot.com/-52BmarTQPqM/WNXHLuRMJ0I/AAAAAAAABgY/TrHjbJL7Uoo8OdvweC9VYuE-VQ3guljTgCLcB/s1600/giay-nike-Darwin.jpg",
+      "price": 5600000
+    },
+    {
+      "product_id": 7,
+      "product_name": "Áo thun",
+      "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/348/395/products/ot-tee-black-sau-t2-f358de4f-79f7-49a3-a98d-3c68de16ff08.jpg?v=1590993471227",
+      "price": 560000
+    },
+    {
+      "product_id": 6,
+      "product_name": "Áo phông đen",
+      "image": "https://dosi-in.com/images/detailed/41/lnc_tr%C6%A1n_3.png",
+      "price": 340000
+    }
+  ]
+}
